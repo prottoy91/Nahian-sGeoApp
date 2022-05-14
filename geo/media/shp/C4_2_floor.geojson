@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "C4_2_floor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 90.370705755150567, 23.762444849708089 ], [ 90.370795042722719, 23.762278228414814 ], [ 90.371090211002894, 23.762409610200621 ], [ 90.371000413367838, 23.762574730613004 ], [ 90.370705755150567, 23.762444849708089 ] ] ] } }
+]
+}
